@@ -1,5 +1,8 @@
 # Breast Cancer Prediction Streamlit App
 
+![image](https://github.com/user-attachments/assets/e37bcca8-eabb-4f4b-9b68-d5271dfea6ae)
+
+
 This is a simple Streamlit application that predicts whether a breast cancer tumor is benign or malignant based on input data. The app uses a **Logistic Regression** machine learning model trained on the **Breast Cancer Wisconsin dataset** to classify tumors based on various features related to cell nuclei measurements.
 
 ## Features
